@@ -1,0 +1,16 @@
+# Compiled bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Executáveis
+dist/
+build/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ambiente virtual
+venv/
+env/
